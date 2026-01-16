@@ -41,12 +41,20 @@ python main.py
 ### Sample Conversation
 Rule-Based Chatbot is running! Type 'bye' to exit.
 You: hi
+
+
 Bot: Hello! :) How can I help you today?
 You: what day is today
+
+
 Bot: Today is Friday
 You: time
+
+
 Bot: The current time is 09:10 PM
 You: gn
+
+
 Bot: Goodbye! Have a great day!
 ### How It Works
 The chatbot cleans user input using:
