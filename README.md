@@ -6,16 +6,16 @@ A simple **rule-based chatbot** built using Python that responds to user message
 
 ## Features
 
-Greeting responses (Hi / Hello / Hey)  
-Good Morning responses (GM / Morning)  
-Bot introduction (Your name)  
-User name detection (`my name is ...`)  
-Current time response  
-Current date response  
-Day in week response (Today is Monday/Tuesday...)  
-Help & support response  
-Feature list response  
-Exit responses (bye / exit / quit / good night / gn etc.)
+- Greeting responses (Hi / Hello / Hey)  
+- Good Morning responses (GM / Morning)  
+- Bot introduction (Your name)  
+- User name detection (`my name is ...`)  
+- Current time response  
+- Current date response  
+- Day in week response (Today is Monday/Tuesday...)  
+- Help & support response  
+- Feature list response  
+- Exit responses (bye / exit / quit / good night / gn etc.)
 
 ---
 
