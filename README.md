@@ -38,25 +38,9 @@ cd CHATBOT-WITH-RULE-BASED-RESPONSES
 ```bash
 python main.py
 ```
-### Sample Conversation
-Rule-Based Chatbot is running! Type 'bye' to exit.
-You: hi
-
-
-Bot: Hello! :) How can I help you today?
-You: what day is today
-
-
-Bot: Today is Friday
-You: time
-
-
-Bot: The current time is 09:10 PM
-You: gn
-
 
 Bot: Goodbye! Have a great day!
-### How It Works
+## How It Works
 The chatbot cleans user input using:
 - lowercasing
 - trimming spaces
@@ -64,18 +48,9 @@ The chatbot cleans user input using:
 - Then it checks conditions like:
 greetings
 time/date/day queries
-user name extraction using regex
-exit keywords
-If no rule matches, it gives a fallback response.
-### Supported Keywords
-Greetings:
-hi, hello, hey, hii, hola
+user name extraction using regex,exit keywords,If no rule matches, it gives a fallback response.
 
-Morning:
-good morning, gm, morning
-
-Exit:bye, goodbye, exit, quit, gn, good night, goodnight
-### Future Improvements 
+## Future Improvements 
 - Add multiple jokes using random
 - Add calculator support (add/sub/mul/div)
 - GUI using Tkinter
