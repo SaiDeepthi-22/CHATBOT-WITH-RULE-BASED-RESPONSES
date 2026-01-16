@@ -31,7 +31,11 @@ Exit responses (bye / exit / quit / good night / gn etc.)
 1. Clone the repository:
 ```bash
 git clone https://github.com/SaiDeepthi-22/CHATBOT-WITH-RULE-BASED-RESPONSES
+```
+```bash
 cd CHATBOT-WITH-RULE-BASED-RESPONSES
+```
+```bash
 python main.py
 ```
 ### Sample Conversation
@@ -62,12 +66,11 @@ hi, hello, hey, hii, hola
 Morning:
 good morning, gm, morning
 
-Exit:
-bye, goodbye, exit, quit, gn, good night, goodnight
-Future Improvements 
-Add multiple jokes using random
-Add calculator support (add/sub/mul/div)
-GUI using Tkinter
-Store chat history in a text file
+Exit:bye, goodbye, exit, quit, gn, good night, goodnight
+### Future Improvements 
+- Add multiple jokes using random
+- Add calculator support (add/sub/mul/div)
+- GUI using Tkinter
+- Store chat history in a text file
 ### Author
 Samatham Sai Deepthi
