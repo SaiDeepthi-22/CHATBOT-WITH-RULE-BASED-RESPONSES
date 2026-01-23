@@ -39,5 +39,5 @@ while True:
     user = input("You: ")
     reply = chatbot_response(user)
     print("Bot:", reply)
-    if clean_text(user) in ["bye", "goodbye", "exit", "quit"]:
+    if clean_text(user) in ["bye", "goodbye", "exit",]:
         break

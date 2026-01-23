@@ -39,7 +39,7 @@ cd CHATBOT-WITH-RULE-BASED-RESPONSES
 python main.py
 ```
 
-Bot: Goodbye! Have a great day!
+Bot: Goodbye Have a great day!
 ## How It Works
 The chatbot cleans user input using:
 - lowercasing
